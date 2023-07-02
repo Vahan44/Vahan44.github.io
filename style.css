@@ -22,7 +22,6 @@
     max-width: 400px;
     position: absolute;
     margin: 1rem;
-    padding: 2rem;
     border-radius: var(--border-radius);
     background: #e9f4dd;
 }
